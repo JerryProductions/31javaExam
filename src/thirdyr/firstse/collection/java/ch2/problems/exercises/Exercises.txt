@@ -1,0 +1,38 @@
+PROBLEMS
+2.20 What does the following code print?
+System.out.println("*");
+System.out.println("***");
+System.out.println("*****");
+System.out.println("***");
+System.out.println("**");
+
+2.21 What does the following code print?
+System.out.print("*");
+System.out.print("***");
+System.out.print("*****");
+System.out.print("****");
+System.out.println("**");
+
+
+2.22 What does the following code print?
+System.out.print("*");
+System.out.println("***");
+System.out.println("*****");
+System.out.print("****");
+System.out.println("**");
+
+ANSWERS TO PROBLEMS
+2.20
+*
+***
+*****
+***
+**
+
+2.21
+***************
+
+2.22
+****
+*****
+******
