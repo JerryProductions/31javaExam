@@ -22,7 +22,7 @@ Please do not **change or modify** any of the code inside this package. All code
 |   | Account Class | [`src.thirdyr.firstse.collection.java.ch3.account`](https://github.com/JerryProductions/31javaExam/blob/main/src/thirdyr/firstse/collection/java/ch3/account) |
 |   | Date Class | [`src.thirdyr.firstse.collection.java.ch3.date`](https://github.com/JerryProductions/31javaExam/blob/main/src/thirdyr/firstse/collection/java/ch3/date) |
 |   | Employee Class | [`src.thirdyr.firstse.collection.java.ch3.employee`](https://github.com/JerryProductions/31javaExam/blob/main/src/thirdyr/firstse/collection/java/ch3/employee) |
-|   | Invoice Class | [`src.thirdyr.firstse.collection.java.ch3.invoice`]((https://github.com/JerryProductions/31javaExam/blob/main/src/thirdyr/firstse/collection/java/ch3/invoice.java)) |
+|   | Invoice Class | [`src.thirdyr.firstse.collection.java.ch3.invoice`](https://github.com/JerryProductions/31javaExam/blob/main/src/thirdyr/firstse/collection/java/ch3/invoice) |
 | 4 | Checkerboard Pattern | [`src.thirdyr.firstse.collection.java.ch4.CheckerBoardPattern.java`](https://github.com/JerryProductions/31javaExam/blob/main/src/thirdyr/firstse/collection/java/ch4/CheckerBoardPattern.java) |
 |   | Multiples Of 2 | [`src.thirdyr.firstse.collection.java.ch4.MultiplesOf2.java`](https://github.com/JerryProductions/31javaExam/blob/main/src/thirdyr/firstse/collection/java/ch4/MultiplesOf2.java) |
 |   | Palindromes | [`src.thirdyr.firstse.collection.java.ch4.Palindromes.java`](https://github.com/JerryProductions/31javaExam/blob/main/src/thirdyr/firstse/collection/java/ch4/Palindromes.java) |
