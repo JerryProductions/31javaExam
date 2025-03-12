@@ -65,4 +65,4 @@ Github: https://github.com/JerryProductions/31javaExam
 Google Drive: https://drive.google.com/drive/folders/1T0ySzAiWV4Wsb2pIl-yxOMvgdWyQ6bg5?usp=sharing
 
 ## Credits
-This project was proudly creaded by ***Jerry***[[telegram]](https://t.me/mamaboyfriend) using [Eclipse IDE](https://www.eclipse.org/).
+This project was proudly created by ***Jerry***[[telegram]](https://t.me/mamaboyfriend) using [Eclipse IDE](https://www.eclipse.org/).
