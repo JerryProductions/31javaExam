@@ -12,7 +12,7 @@ Please do not **change or modify** any of the code inside this package. All code
 ### Contents
 | Chapter | File | File Address |
 |-|-|-|
-| 2 | Addition | `src.thirdyr.firstse.collection.java.ch2.Addition.java` |
+| 2 | Addition | [`src.thirdyr.firstse.collection.java.ch2.Addition.java`](https://github.com/JerryProductions/31javaExam/blob/main/src/thirdyr/firstse/collection/java/ch2/Additions.java) |
 |   | Checkerboard | `src.thirdyr.firstse.collection.java.ch2.Checkerboard.java` |
 |   | Comparison | `src.thirdyr.firstse.collection.java.ch2.Comparison.java` |
 |   | Displaying Shapes | `src.thirdyr.firstse.collection.java.ch2.DisplayingShapes.java` |
