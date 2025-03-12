@@ -13,7 +13,7 @@ Please do not **change or modify** any of the code inside this package. All code
 | Chapter | File | File Address |
 |-|-|-|
 | 2 | Addition | `src.thirdyr.firstse.collection.java.ch2.Addition.java` |
-|   | Checkerboard` | `src.thirdyr.firstse.collection.java.ch2.Checkerboard.java` |
+|   | Checkerboard | `src.thirdyr.firstse.collection.java.ch2.Checkerboard.java` |
 |   | Comparison | `src.thirdyr.firstse.collection.java.ch2.Comparison.java` |
 |   | Displaying Shapes | `src.thirdyr.firstse.collection.java.ch2.DisplayingShapes.java` |
 |   | Squares and Cubes | `src.thirdyr.firstse.collection.java.ch2.SquaresCubes.java` |
@@ -60,7 +60,7 @@ Please do not **change or modify** any of the code inside this package. All code
 |   | Shape Class, Rectangle Subclass | `src.thirdyr.firstse.collection.java.ch8.rectangleShape` |
 
 ## Additional Websites
-Github: 
+Github: https://github.com/JerryProductions/31javaExam
 
 Google Drive: https://drive.google.com/drive/folders/1T0ySzAiWV4Wsb2pIl-yxOMvgdWyQ6bg5?usp=sharing
 
